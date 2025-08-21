@@ -21,6 +21,8 @@
 -----------------------------------------------
 <img width="1008" height="713" alt="image" src="https://github.com/user-attachments/assets/850a05c6-8769-4399-89d0-6d0b34721d30" />
 
+<img width="881" height="613" alt="image" src="https://github.com/user-attachments/assets/7c2b4374-33e6-4bee-bfc7-781d18bcd4ca" />
+
 Behavior Tree를 이용한 적 AI의 구현
 
 <img width="760" height="443" alt="image" src="https://github.com/user-attachments/assets/128f5969-a63b-40a3-9cad-b1e54b5e3409" />
@@ -31,13 +33,32 @@ Behavior Tree를 이용한 적 AI의 구현
 
 애니메이션 몽타주를 이용한 콤보 공격의 구현 (-> AnimNotify를 이용한 공격 판정 타이밍 구현)
 
-<img width="607" height="482" alt="image" src="https://github.com/user-attachments/assets/90653aaf-7a60-4bc8-9e89-38bb2172e13a" />
+<img width="613" height="296" alt="image" src="https://github.com/user-attachments/assets/8dab93bf-371f-483f-94dc-1c104298f326" />
 
-<img width="612" height="539" alt="image" src="https://github.com/user-attachments/assets/b7c4a756-08c2-45bf-8863-383fc6eeb0fb" />
+소프트 포인터를 이용한 에셋 로드 최적화
 
-위젯 컴포넌트 내의 위젯과, 대상 캐릭터간의 연결 및 델리게이트 설정 처리
+<img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/e4a6a428-eb65-4ba9-8bab-a245e71f5601" />
+
+<img width="914" height="678" alt="image" src="https://github.com/user-attachments/assets/26de5010-b419-4842-b704-a9b950725589" />
+
+에셋 매니저를 이용한 아이템 데이터 목록 관리 / 필요한 데이터의 런타임 동기 로드
+
+<img width="940" height="196" alt="image" src="https://github.com/user-attachments/assets/4b000379-32e1-4b84-85ad-8c2d517788e5" />
+
+액터 지연 생성을 이용한 적 캐릭터 설정 처리
 
 <img width="652" height="403" alt="image" src="https://github.com/user-attachments/assets/91094b23-ad11-4175-9d1f-f8e9bfdc921c" />
 
 엑셀 .csv 파일을 이용한 게임 데이터 관리
 
+<img width="940" height="330" alt="image" src="https://github.com/user-attachments/assets/2bf112f2-161e-4f47-aa6c-17bffe6bbb48" />
+
+<img width="940" height="348" alt="image" src="https://github.com/user-attachments/assets/4b1e8386-9869-4afb-a01d-a3ef2e890e17" />
+
+StreamableManager와 StreamableHandle을 이용한 에셋의 비동기 로드
+
+<img width="940" height="561" alt="image" src="https://github.com/user-attachments/assets/c2db34e1-6d29-4449-bdaf-002b228e86fd" />
+
+<img width="911" height="383" alt="image" src="https://github.com/user-attachments/assets/35510a3a-ae31-421e-913c-8e127f11b2a6" />
+
+SaveGame 클래스를 이용한 게임의 세이브, 로드의 구현
